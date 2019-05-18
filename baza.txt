@@ -1,0 +1,12 @@
+ID  Наименование                                
+
+100 Процессор AMD Ryzen 5                        
+150 Процессор INTEL Core i5                      
+200 Процессор INTEL Core i7                      
+250 Модуль памяти SAMSUNG                       
+300 Модуль памяти CRUCIAL                        
+350 Видеокарта MSI nVidia GeForce GTX 1660TI     
+400 Видеокарта SAPPHIRE AMD Radeon RX 590        
+450 Звуковая карта PCI-E CREATIVE BlasterX AE-5  
+500 Звуковая карта PCI ASUS Xonar DG             
+550 Адаптер PCI-E M.2 NGFF for SSD Bulk          
